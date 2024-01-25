@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\MenuScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\DefeatScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\Pipe.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\Player.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\MenuScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\DefeatScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\Constants.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\Pipe.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Classes\Player.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\backgroundColorFall.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\backgroundColorForest.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\backgroundColorGrass.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\character_zombie_sheet.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\female_tilesheet.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\flat.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\pixel_style2.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\playButton.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\playButtonPressed.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\redCross.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\roguelikeChar_transparent.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\roguelikeCity_magenta.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\sheet.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\soldier_tilesheet.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\spritesheet_default.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\Assets\tanks_spritesheetDefault.png">
+      <Filter>Resources\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\sounds\GameOver.mp3">
+      <Filter>Resources\sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\sounds\TingPipe.mp3">
+      <Filter>Resources\sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\sounds\jump.mp3">
+      <Filter>Resources\sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\Resources\sounds\theme.mp3">
+      <Filter>Resources\sounds</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\User\IIM\A5\A5-2024-Cocos\mygame\MyGame\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{D29318D1-D2B5-306B-88ED-AC1A9545F9A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Assets">
+      <UniqueIdentifier>{62CB521D-931E-3F19-9E65-BDFE46A84521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{E5FB1982-7769-36F3-B675-D78124C58935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{FAB324D1-F07D-3C17-9384-31B9B2A4474A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\sounds">
+      <UniqueIdentifier>{25455CBF-0D9A-365C-BF8E-00AD35C4902F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4A66FCEF-E07E-34C2-9FA6-7A66B9D39D25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{1A8E17CF-7E36-3DC1-990D-6B56BA22B278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{BAEF9792-F9C6-3873-B62B-B1BF34C2562A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
